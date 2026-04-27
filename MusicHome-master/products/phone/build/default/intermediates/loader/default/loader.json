@@ -1,0 +1,32 @@
+{
+  "modulePathMap": {
+    "phone": "D:\\0421musicplayer\\MusicHome-master\\products\\phone",
+    "musiclist": "D:\\0421musicplayer\\MusicHome-master\\features\\musiclist",
+    "musiccomment": "D:\\0421musicplayer\\MusicHome-master\\features\\musiccomment",
+    "live": "D:\\0421musicplayer\\MusicHome-master\\features\\live",
+    "mediacommon": "D:\\0421musicplayer\\MusicHome-master\\common\\mediacommon",
+    "constantscommon": "D:\\0421musicplayer\\MusicHome-master\\common\\constantscommon",
+    "watch": "D:\\0421musicplayer\\MusicHome-master\\products\\watch"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\0421musicplayer\\MusicHome-master",
+  "nodeModulesPath": "D:\\0421musicplayer\\MusicHome-master\\products\\phone\\build\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "phone",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "customizedHar": false,
+  "anBuildOutPut": "D:\\0421musicplayer\\MusicHome-master\\products\\phone\\build\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "patchConfig": {
+    "changedFileList": "D:\\0421musicplayer\\MusicHome-master\\products\\phone\\build\\default\\intermediates\\patch\\default\\changedFileList.json"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+build/
+oh_modules/
+.gradle/
+local.properties
+.idea/
+.vscode/
+obfuscation/
+*.log
