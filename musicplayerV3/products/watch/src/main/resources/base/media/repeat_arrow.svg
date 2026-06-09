@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <rect width="24" height="24" opacity="0"></rect>
+    <g>
+        <!-- 上方箭头：从左向右 -->
+        <path d="M17,4 L7,4 C5.9,4 5,4.9 5,6 L5,7 L7,7 L7,6 L17,6 L17,7 L19,5 L17,3 L17,4 Z" fill="currentColor"></path>
+        <!-- 下方箭头：从右向左 -->
+        <path d="M7,20 L17,20 C18.1,20 19,19.1 19,18 L19,17 L17,17 L17,18 L7,18 L7,17 L5,19 L7,21 L7,20 Z" fill="currentColor"></path>
+    </g>
+</svg>

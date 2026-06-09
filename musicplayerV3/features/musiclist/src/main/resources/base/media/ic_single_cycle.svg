@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>ic_single_cycle</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- 循环箭头 -->
+        <path d="M17,4 L7,4 C5.9,4 5,4.9 5,6 L5,18 C5,19.1 5.9,20 7,20 L17,20 C18.1,20 19,19.1 19,18 L19,14 L17,14 L17,18 L7,18 L7,6 L17,6 L17,10 L19,10 L19,6 C19,4.9 18.1,4 17,4 Z" fill="#FFFFFF"></path>
+        <!-- 右上角箭头 -->
+        <path d="M16,2 L16,8 L19,5 L16,2 Z" fill="#FFFFFF"></path>
+        <!-- 数字1 -->
+        <text x="12" y="14" font-size="8" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Arial">1</text>
+    </g>
+</svg>
